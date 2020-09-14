@@ -1,0 +1,23 @@
+body {
+	background-color: lightblue;
+	margin-left: 560px;
+	margin-right: 560px;
+}
+article {
+	border: 2px solid;
+}
+.imageLeft {
+	float: left;
+	margin: 10px;
+	clear: right;
+	border: 2px solid;
+}
+.imageRight {
+	float: right;
+    margin: 10px;
+    clear: left;
+    border: 2px solid;
+}
+h2 {
+	margin-left: 10px;
+}
