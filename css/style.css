@@ -1,10 +1,10 @@
 body {
 	background-color: lightblue;
-	margin-left: 560px;
-	margin-right: 560px;
 }
-article {
+.wrapper {
 	border: 2px solid;
+	width: 800px;
+	margin: 0 auto;
 }
 .imageLeft {
 	float: left;
